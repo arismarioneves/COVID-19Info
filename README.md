@@ -1,6 +1,8 @@
 # COVID-19Info
 
 ![](https://github.com/arismarioneves/COVID-19Info/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
+[![](https://github.com/arismarioneves/COVID-19Info/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)](https://github.com/arismarioneves/COVID-19Info/blob/master/app/src/main/res/mipmap-xxxhdpi/ "李健首张专辑《似水流年》封面")
+
 > Version 1.0
 
 ![](HV2TiFU8HD.gif)
