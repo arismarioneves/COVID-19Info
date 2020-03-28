@@ -1,6 +1,6 @@
 # COVID-19Info
 
-![](https://github.com/arismarioneves/COVID-19Info/app/src/ic_launcher-web.png)
+![](app/src/ic_launcher-web.png)
 
 ![](HV2TiFU8HD.gif)
 > Application COVID-19Info
@@ -15,16 +15,14 @@ JHU - Johns Hopkins University
 CSSE – Center For Systems Science and Engineering
 
 Links úteis:
-- [JHU CSSE](https://systems.jhu.edu/).
-
-- [COVID-19 API](https://github.com/mathdroid/covid-19-api).
-
+- [JHU CSSE](https://systems.jhu.edu/).<br/>
+- [COVID-19 API](https://github.com/mathdroid/covid-19-api).<br/>
 - [Ministério da Saúde - Painel Coronavírus](https://covid.saude.gov.br/).
 
 
 ### Bibliotecas :books:
 
-[`Retrofit 2.7.1`](https://square.github.io/retrofit/)
+[`Retrofit 2.7.1`](https://square.github.io/retrofit/)<br/>
 [`MPAndroidChart 3.1.0`](https://square.github.io/retrofit/)
 
 
