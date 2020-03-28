@@ -1,7 +1,7 @@
 # COVID-19Info
 
 ![](https://github.com/arismarioneves/COVID-19Info/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
-[![](https://mt11-html-images.s3.ap-south-1.amazonaws.com/android_app_btn.png)](https://github.com/arismarioneves/COVID-19Info/COVID-19Info.apk "COVID-19 Info 1.0")
+[![](https://mt11-html-images.s3.ap-south-1.amazonaws.com/android_app_btn.png)](COVID-19Info.apk "COVID-19 Info 1.0")
 
 > Version 1.0
 
