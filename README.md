@@ -1,6 +1,7 @@
 # COVID-19Info
 
-![](app/src/ic_launcher-web.png)
+![](https://github.com/arismarioneves/COVID-19Info/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
+> Version 1.0
 
 ![](HV2TiFU8HD.gif)
 > Application COVID-19Info
