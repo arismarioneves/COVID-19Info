@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">COVID-19 Info</string>
+
+    <string name="app_info">COVID-19 Info é uma aplicação que mostra em um gráfico os resultados gerados pela pandemia provocada pelo Corona Vírus. Os dados são dividos em 3 categorias:</string>
+    <string name="app_data">As informações exibidas são divulgadas por: JHU CSSE\nJHU - Johns Hopkins University\nCSSE – Center For Systems Science and Engineering</string>
+
+    <string name="weblink">JHU CSSE <a href="https://systems.jhu.edu/">https://systems.jhu.edu/</a></string>
+    <string name="contato">Mari05liM <a href="mailto:mariodev@outlook.com.br?Subject=COVID-19%20Info" target="_top">mariodev@outlook.com.br</a></string>
+
+    <string name="loading_title">Aguarde</string>
+    <string name="loading_message">Carregando dados…</string>
+
+    <string name="last_update">Última atualização</string>
+
+    <string name="corona">COVID-19</string>
+    <string name="confirmed">Confirmados</string>
+    <string name="recovered">Recuperados</string>
+    <string name="deaths">Mortes</string>
+
+    <string name="world">Mundo</string>
+    <string name="country">Brasil</string>
+    <string name="about">Sobre</string>
+
+    <string name="world_summary_data">Resumo de dados Mundo</string>
+    <string name="country_summary_data">Resumo de dados Brasil</string>
+
+</resources>
