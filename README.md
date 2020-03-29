@@ -34,7 +34,7 @@ As informações exibidas são divulgadas por:
 
 ### Atênção :warning:
 
-Fique em casa :house:
+Fique em casa. :house:
 
 ----
 
