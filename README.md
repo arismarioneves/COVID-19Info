@@ -10,24 +10,23 @@
 
 ### Descrição do Projeto
 
-COVID-19 Info é uma aplicação que mostra em um gráfico os resultados gerados pela pandemia provocada pelo Corona Vírus.
+**COVID-19 Info** é uma aplicação que mostra em um gráfico os resultados gerados pela pandemia provocada pelo Corona Vírus.
 
 As informações exibidas são divulgadas por:
-JHU CSSE
-JHU - Johns Hopkins University
-CSSE – Center For Systems Science and Engineering
+**JHU CSSE**
+**JHU** - *Johns Hopkins University*
+**CSSE** – *Center For Systems Science and Engineering*
 
-Links úteis:
+### Links :link:
+
 - [JHU CSSE](https://systems.jhu.edu/).<br/>
 - [COVID-19 API](https://github.com/mathdroid/covid-19-api).<br/>
 - [Ministério da Saúde - Painel Coronavírus](https://covid.saude.gov.br/).
-
 
 ### Bibliotecas :books:
 
 [`Retrofit 2.7.1`](https://square.github.io/retrofit/)<br/>
 [`MPAndroidChart 3.1.0`](https://square.github.io/retrofit/)
-
 
 ### IDE :computer:
 
