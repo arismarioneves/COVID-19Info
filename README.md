@@ -26,7 +26,7 @@ As informações exibidas são divulgadas por:
 ### Bibliotecas :books:
 
 [`Retrofit 2.7.1`](https://square.github.io/retrofit/)<br/>
-[`MPAndroidChart 3.1.0`](https://square.github.io/retrofit/)
+[`MPAndroidChart 3.1.0`](https://weeklycoding.com/mpandroidchart/)
 
 ### IDE :computer:
 
